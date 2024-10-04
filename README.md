@@ -12,7 +12,7 @@ This project focuses on addressing operational inefficiencies for Fargo Health, 
 - **Statistical Testing**: Performed stationarity testing using the Augmented Dickey-Fuller (ADF) test to validate the underlying assumptions of time-series models.
 
 ## Tools Used:
-- Python
+- R
 - Pandas
 - Matplotlib
 - Statsmodels
